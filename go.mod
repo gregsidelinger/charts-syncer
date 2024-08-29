@@ -29,7 +29,7 @@ require (
 
 require (
 	github.com/stretchr/testify v1.8.4
-	github.com/vmware-labs/distribution-tooling-for-helm v0.4.1
+	github.com/vmware-labs/distribution-tooling-for-helm v0.4.2
 )
 
 require (
